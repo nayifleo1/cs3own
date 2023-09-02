@@ -3,6 +3,6 @@
     "description": "Providers from all country",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://github.com/nayifleo1/cs3own/build/plugins.json"
+        "https://raw.githubusercontent.com/nayifleo1/cs3own/build/plugins.json"
     ]
 }
