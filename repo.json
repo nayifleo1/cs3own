@@ -1,0 +1,8 @@
+{
+    "name": "Nayif",
+    "description": "Providers from all country",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://github.com/nayifleo1/cs3own/blob/builds/plugins.json"
+    ]
+}
